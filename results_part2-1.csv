@@ -1,0 +1,7 @@
+,Unnamed: 0,score,time,samples,subject,session,channels,n_sessions,dataset,pipeline,subj
+0,0,0.9459184,0.31197777,144.0,1,0train,22,2,BNCI2014-001,csp+lda,1
+1,1,0.9441497,0.2987432,144.0,1,1test,22,2,BNCI2014-001,csp+lda,1
+2,2,0.59156466,0.3126647,144.0,2,0train,22,2,BNCI2014-001,csp+lda,2
+3,3,0.65408164,0.29656774,144.0,2,1test,22,2,BNCI2014-001,csp+lda,2
+4,4,0.9883673,0.28641447,144.0,3,0train,22,2,BNCI2014-001,csp+lda,3
+5,5,0.99319726,0.28558892,144.0,3,1test,22,2,BNCI2014-001,csp+lda,3
