@@ -1,0 +1,182 @@
+----- Test GestionnaireTrajectoires -----
+Données:
+[[ 1  2  3  4  5  6  7  8  9 10]
+ [ 2  3  4  5  6  7  8  9 10 11]
+ [ 3  4  5  6  7  8  9 10 11 12]]
+p_points: 3
+stride: 1
+Nombre max de matrices par trajectoire: 2
+État initial des trajectoires:
+Trajectoire 1:
+Trajectoire avec 2 matrices de covariance
+Trajectoire actuelle:
+[[2. 2. 2.]
+ [2. 2. 2.]
+ [2. 2. 2.]]
+Trajectoire 2:
+Trajectoire avec 2 matrices de covariance
+Trajectoire actuelle:
+[[2. 2. 2.]
+ [2. 2. 2.]
+ [2. 2. 2.]]
+Trajectoire 3:
+Trajectoire avec 2 matrices de covariance
+Trajectoire actuelle:
+[[2. 2. 2.]
+ [2. 2. 2.]
+ [2. 2. 2.]]
+Trajectoire 4:
+Trajectoire avec 2 matrices de covariance
+Trajectoire actuelle:
+[[2. 2. 2.]
+ [2. 2. 2.]
+ [2. 2. 2.]]
+
+État des trajectoires après ajout de la nouvelle matrice:
+Trajectoire 1:
+Trajectoire avec 2 matrices de covariance
+Trajectoire actuelle:
+[[2. 2. 2.]
+ [2. 2. 2.]
+ [2. 2. 2.]]
+Trajectoire 2:
+Trajectoire avec 2 matrices de covariance
+Trajectoire actuelle:
+[[2. 2. 2.]
+ [2. 2. 2.]
+ [2. 2. 2.]]
+Trajectoire 3:
+Trajectoire avec 2 matrices de covariance
+Trajectoire actuelle:
+[[2. 2. 2.]
+ [2. 2. 2.]
+ [2. 2. 2.]]
+Trajectoire 4:
+Trajectoire avec 2 matrices de covariance
+Trajectoire actuelle:
+[[2. 2. 2.]
+ [2. 2. 2.]
+ [2. 2. 2.]]
+Trajectoire 5:
+Trajectoire avec 1 matrices de covariance
+Trajectoire actuelle:
+[[1. 1. 1.]
+ [1. 1. 1.]
+ [1. 1. 1.]]
+
+----- Fin du test -----
+
+----- Test GestionnaireTrajectoires -----
+Données:
+[[ 10  20  30  40  50  60  70  80  90 100]
+ [ 15  25  35  45  55  65  75  85  95 105]
+ [ 20  30  40  50  60  70  80  90 100 110]
+ [ 25  35  45  55  65  75  85  95 105 115]]
+p_points: 5
+stride: 1
+Nombre max de matrices par trajectoire: 3
+État initial des trajectoires:
+Trajectoire 1:
+Trajectoire avec 3 matrices de covariance
+Trajectoire actuelle:
+[[750. 750. 750. 750.]
+ [750. 750. 750. 750.]
+ [750. 750. 750. 750.]
+ [750. 750. 750. 750.]]
+Trajectoire 2:
+Trajectoire avec 3 matrices de covariance
+Trajectoire actuelle:
+[[750. 750. 750. 750.]
+ [750. 750. 750. 750.]
+ [750. 750. 750. 750.]
+ [750. 750. 750. 750.]]
+
+État des trajectoires après ajout de la nouvelle matrice:
+Trajectoire 1:
+Trajectoire avec 3 matrices de covariance
+Trajectoire actuelle:
+[[750. 750. 750. 750.]
+ [750. 750. 750. 750.]
+ [750. 750. 750. 750.]
+ [750. 750. 750. 750.]]
+Trajectoire 2:
+Trajectoire avec 3 matrices de covariance
+Trajectoire actuelle:
+[[750. 750. 750. 750.]
+ [750. 750. 750. 750.]
+ [750. 750. 750. 750.]
+ [750. 750. 750. 750.]]
+Trajectoire 3:
+Trajectoire avec 1 matrices de covariance
+Trajectoire actuelle:
+[[250. 250. 250. 250.]
+ [250. 250. 250. 250.]
+ [250. 250. 250. 250.]
+ [250. 250. 250. 250.]]
+
+----- Fin du test -----
+
+----- Test GestionnaireTrajectoires -----
+Données:
+[[  5  10  15  20  25  30  35  40  45  50  55  60  65  70  75  80]
+ [  6  12  18  24  30  36  42  48  54  60  66  72  78  84  90  96]
+ [  7  14  21  28  35  42  49  56  63  70  77  84  91  98 105 112]
+ [  8  16  24  32  40  48  56  64  72  80  88  96 104 112 120 128]
+ [  9  18  27  36  45  54  63  72  81  90  99 108 117 126 135 144]]
+p_points: 6
+stride: 1
+Nombre max de matrices par trajectoire: 4
+État initial des trajectoires:
+Trajectoire 1:
+Trajectoire avec 4 matrices de covariance
+Trajectoire actuelle:
+[[ 350.  420.  490.  560.  630.]
+ [ 420.  504.  588.  672.  756.]
+ [ 490.  588.  686.  784.  882.]
+ [ 560.  672.  784.  896. 1008.]
+ [ 630.  756.  882. 1008. 1134.]]
+Trajectoire 2:
+Trajectoire avec 4 matrices de covariance
+Trajectoire actuelle:
+[[ 350.  420.  490.  560.  630.]
+ [ 420.  504.  588.  672.  756.]
+ [ 490.  588.  686.  784.  882.]
+ [ 560.  672.  784.  896. 1008.]
+ [ 630.  756.  882. 1008. 1134.]]
+Trajectoire 3:
+Trajectoire avec 3 matrices de covariance
+Trajectoire actuelle:
+[[262.5 315.  367.5 420.  472.5]
+ [315.  378.  441.  504.  567. ]
+ [367.5 441.  514.5 588.  661.5]
+ [420.  504.  588.  672.  756. ]
+ [472.5 567.  661.5 756.  850.5]]
+
+État des trajectoires après ajout de la nouvelle matrice:
+Trajectoire 1:
+Trajectoire avec 4 matrices de covariance
+Trajectoire actuelle:
+[[ 350.  420.  490.  560.  630.]
+ [ 420.  504.  588.  672.  756.]
+ [ 490.  588.  686.  784.  882.]
+ [ 560.  672.  784.  896. 1008.]
+ [ 630.  756.  882. 1008. 1134.]]
+Trajectoire 2:
+Trajectoire avec 4 matrices de covariance
+Trajectoire actuelle:
+[[ 350.  420.  490.  560.  630.]
+ [ 420.  504.  588.  672.  756.]
+ [ 490.  588.  686.  784.  882.]
+ [ 560.  672.  784.  896. 1008.]
+ [ 630.  756.  882. 1008. 1134.]]
+Trajectoire 3:
+Trajectoire avec 4 matrices de covariance
+Trajectoire actuelle:
+[[ 350.  420.  490.  560.  630.]
+ [ 420.  504.  588.  672.  756.]
+ [ 490.  588.  686.  784.  882.]
+ [ 560.  672.  784.  896. 1008.]
+ [ 630.  756.  882. 1008. 1134.]]
+
+----- Fin du test -----
+
