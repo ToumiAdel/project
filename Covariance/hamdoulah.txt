@@ -1,0 +1,44 @@
+Creating RawArray with float64 data, n_channels=3, n_times=2560
+    Range : 0 ... 2559 =      0.000 ...     9.996 secs
+Ready.
+Trajectoire initiale:
+Trajectoire 1:
+Trajectoire avec 4 matrices de covariance
+Trajectoire actuelle:
+[[ 8.00586234e-07 -1.70479610e-06  8.54784540e-07]
+ [-1.70479610e-06  3.49384749e-08  1.57859487e-06]
+ [ 8.54784540e-07  1.57859487e-06  9.95027395e-07]]
+Trajectoire 2:
+Trajectoire avec 4 matrices de covariance
+Trajectoire actuelle:
+[[ 9.60996055e-07 -6.88227236e-07 -8.87402097e-07]
+ [-6.88227236e-07  1.74587356e-06  1.18723345e-06]
+ [-8.87402097e-07  1.18723345e-06  1.11374034e-06]]
+Trajectoire 3:
+Trajectoire avec 4 matrices de covariance
+Trajectoire actuelle:
+[[ 9.44357131e-08 -8.19632642e-07 -5.20631418e-07]
+ [-8.19632642e-07 -5.76219496e-07 -2.39929870e-07]
+ [-5.20631418e-07 -2.39929870e-07  6.10120375e-07]]
+Trajectoire 4:
+Trajectoire avec 3 matrices de covariance
+Trajectoire actuelle:
+[[ 3.29778802e-07  4.67411737e-07  3.08407049e-07]
+ [ 4.67411737e-07  5.26438207e-07 -1.10489794e-07]
+ [ 3.08407049e-07 -1.10489794e-07 -4.00015721e-07]]
+
+Creating RawArray with float64 data, n_channels=3, n_times=2560
+    Range : 0 ... 2559 =      0.000 ...     9.996 secs
+Ready.
+Creating RawArray with float64 data, n_channels=3, n_times=2560
+    Range : 0 ... 2559 =      0.000 ...     9.996 secs
+Ready.
+Creating RawArray with float64 data, n_channels=3, n_times=2560
+    Range : 0 ... 2559 =      0.000 ...     9.996 secs
+Ready.
+Creating RawArray with float64 data, n_channels=3, n_times=2560
+    Range : 0 ... 2559 =      0.000 ...     9.996 secs
+Ready.
+Creating RawArray with float64 data, n_channels=3, n_times=2560
+    Range : 0 ... 2559 =      0.000 ...     9.996 secs
+Ready.
